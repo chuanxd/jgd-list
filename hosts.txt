@@ -1,0 +1,34 @@
+# JGD/hosts
+
+_ldap._tcp.yjtech.tw
+
+# Router
+exhibit.smartont.net
+wifiserver.smartont.net
+update.hicloud.com
+# SPAM
+fav543.com
+adimgcloud.cardu.com.tw
+ad.cardu.com.tw
+# Fraud
+maxask.com
+sysredirector.com
+# 監理所
+www.surelink.bond
+www.vaultcore.bond
+# 大樹藥局 https://www.greattree.com.tw/new/27D63848EC8Ef580
+bigtree19.com
+soon.gentlesale.top
+shop.greatree.com.tw
+greeattree.com
+dsyj.com.tw
+shop.dsyj.com.tw
+dashu19.com
+www.dreamparentchild.com
+zhenklove.store
+www.byube.com
+www.dreamparentchild.com
+
+# CN
+hitnslab.net
+hitwh.net.cn
