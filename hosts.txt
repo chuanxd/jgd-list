@@ -10,9 +10,21 @@ update.hicloud.com
 fav543.com
 adimgcloud.cardu.com.tw
 ad.cardu.com.tw
+# Content Farm
+b.bbi.com.tw
+buaq.net
+iwaishin.com
+niusnews.com
+readfog.com
+ubuntuqa.com
+unsafe.sh
+xingmingzhijia.com
+eastday.com # wildcard
+nmplus.hk  #有提供公司資訊，但作者皆為化名，內容大多出處不詳，疑轉載自內容農場
 # Fraud
 maxask.com
 sysredirector.com
+manongjc.com
 # 監理所
 www.surelink.bond
 www.vaultcore.bond
@@ -30,5 +42,5 @@ www.byube.com
 www.dreamparentchild.com
 
 # CN
-hitnslab.net
-hitwh.net.cn
+hitnslab.net # wildcard
+hitwh.net.cn # wildcard
