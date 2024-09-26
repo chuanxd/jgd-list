@@ -25,6 +25,8 @@ nmplus.hk  #有提供公司資訊，但作者皆為化名，內容大多出處�
 maxask.com
 sysredirector.com
 manongjc.com
+marshall.com
+www.marshallaudio.com.tw
 # 監理所
 www.surelink.bond
 www.vaultcore.bond
@@ -40,6 +42,9 @@ www.dreamparentchild.com
 zhenklove.store
 www.byube.com
 www.dreamparentchild.com
+# 智生活
+img.smartdaily.com.tw
+images.smartdaily.com.tw
 
 # CN
 hitnslab.net # wildcard
