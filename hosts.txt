@@ -21,6 +21,7 @@ unsafe.sh
 xingmingzhijia.com
 eastday.com # wildcard
 nmplus.hk  #有提供公司資訊，但作者皆為化名，內容大多出處不詳，疑轉載自內容農場
+technice.com.tw
 # Fraud
 maxask.com
 sysredirector.com
