@@ -11,6 +11,7 @@ fav543.com
 adimgcloud.cardu.com.tw
 ad.cardu.com.tw
 # Content Farm
+min.news
 b.bbi.com.tw
 buaq.net
 iwaishin.com
