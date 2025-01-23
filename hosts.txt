@@ -7,6 +7,8 @@ exhibit.smartont.net
 wifiserver.smartont.net
 update.hicloud.com
 # SPAM
+army1213.com
+77petshome.com
 fav543.com
 adimgcloud.cardu.com.tw
 ad.cardu.com.tw
