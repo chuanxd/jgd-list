@@ -125,3 +125,6 @@ images.smartdaily.com.tw
 # CN
 hitnslab.net # wildcard
 hitwh.net.cn # wildcard
+
+# AD
+unblock.ad-block.shop
