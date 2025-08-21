@@ -128,3 +128,16 @@ hitwh.net.cn # wildcard
 
 # AD
 unblock.ad-block.shop
+
+# superops
+galaxy-attachments-prod.s3.us-east-2.amazonaws.com
+superops-wininstaller-prod.s3.us-east-2.amazonaws.com
+superops-agent-upgrade-prod.s3.us-east-2.amazonaws.com
+api-msp.superops.ai
+serv.superops.ai
+usserv.superops.ai
+api.superops.ai
+lambdaapi.superops.ai
+ws.superops.ai
+api.coralogix.us/logs/rest/singles
+superops-packages.s3.us-east-2.amazonaws.com
