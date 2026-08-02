@@ -1,6 +1,7 @@
 # JGD/hosts
 
 _ldap._tcp.yjtech.tw
+w-jp-fpoint01
 
 # Router
 exhibit.smartont.net
