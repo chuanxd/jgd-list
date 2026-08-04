@@ -93,6 +93,10 @@ xycg89.com
 efcbaby.com
 tx1014.cn
 meetsee.gg
+lswin88.net
+pchome.shop
+xhitjwh.cn
+
 # 監理所
 www.blothravenx.bond
 www.surelink.bond
@@ -142,3 +146,21 @@ lambdaapi.superops.ai
 ws.superops.ai
 api.coralogix.us/logs/rest/singles
 superops-packages.s3.us-east-2.amazonaws.com
+
+# line
+a.line.me
+ad.line-scdn.net
+api.today.line.me
+crs-event.line.me
+jp-col-tcp.nelo.linecorp.com
+legy.line-apps.com
+legy.line-apps.com.akadns.net
+legy-jp-addr-ds.line-apps.com
+linecrs.line-scdn.net
+sch.line.me
+today.line.me
+today-obs.line-scdn.net
+uts-front.line-apps.com
+voom-assets.line-scdn.net
+voom-obs.line-scdn.net
+w.line.me
