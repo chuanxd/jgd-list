@@ -153,7 +153,6 @@ ad.line-scdn.net
 api.today.line.me
 crs-event.line.me
 jp-col-tcp.nelo.linecorp.com
-legy.line-apps.com.akadns.net
 legy-jp-addr-ds.line-apps.com
 linecrs.line-scdn.net
 sch.line.me
